@@ -1,1 +1,1 @@
-console.log("Hey World")
+const pair = "extradinaire"
